@@ -1,6 +1,5 @@
 package src;
 
-import src.Dice;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
